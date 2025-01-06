@@ -27,6 +27,9 @@ A Go program that processes customer and service history from CSV files to gener
 2. Ensure the output includes:
    - A report with customer details and services performed
    - Reminders for customers needing service.
+3. To create an executable file (This will generate a service_station.exe file (Windows)):
+   -  ```bash
+      go build service_station.go
 
 ## File Format
 - customers.csv
