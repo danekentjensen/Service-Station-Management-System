@@ -31,6 +31,9 @@ A Go program that processes customer and service history from CSV files to gener
    -  ```bash
       go build service_station.go
 
+## Sample Output
+   ![image](https://github.com/user-attachments/assets/9e6e62a4-3651-4c46-a536-f845c24ccbf7)
+
 ## File Format
 - customers.csv
   ```csv
